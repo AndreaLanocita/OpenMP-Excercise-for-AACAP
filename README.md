@@ -1,4 +1,4 @@
-# Challenge AACACP2
+# OpenMP Exercise for AACAP
 
 This repository contains two C implementations of the approximation of π using OpenMP parallelization.
 
